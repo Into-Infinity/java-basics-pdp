@@ -1,0 +1,37 @@
+# -----------------------
+# IntelliJ IDEA
+# -----------------------
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Default ignored files (IDE auto-generated)
+shelf/
+workspace.xml
+httpRequests/
+dataSources/
+dataSources.local.xml
+
+# -----------------------
+# Build outputs
+# -----------------------
+out/
+target/
+build/
+
+# -----------------------
+# Logs
+# -----------------------
+*.log
+
+# -----------------------
+# OS files
+# -----------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------
+# Java
+# -----------------------
+*.class
