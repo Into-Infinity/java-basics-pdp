@@ -1,5 +1,6 @@
 package task11;
 
+// Написать код, который создаст, а затем отловит ArrayIndexOutOfBoundsException.
 public class ArrayExceptionDemo {
 
     public static void main(String[] args) {
