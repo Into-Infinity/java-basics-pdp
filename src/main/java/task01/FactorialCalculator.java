@@ -18,5 +18,6 @@ public class FactorialCalculator {
         int n = sc.nextInt();
         int result = factorial(n);
         System.out.print("The factorial of " + n + " is " + result);
+        sc.close();
     }
 }

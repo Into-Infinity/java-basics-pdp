@@ -21,5 +21,6 @@ public class DigitSumCalculator {
         int n = sc.nextInt();
         int result = sumOfDigits(n);
         System.out.println("The sum of digits of " + n + " is " + result);
+        sc.close();
     }
 }
