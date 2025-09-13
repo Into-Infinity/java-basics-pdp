@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 // Написать программу вычисляющую площадь треугольника по трем сторонам
 public class TriangleArea {
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

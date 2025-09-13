@@ -17,10 +17,13 @@ public class DigitSumCalculator {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
         System.out.print("Enter a number: ");
         int n = sc.nextInt();
+
         int result = sumOfDigits(n);
         System.out.println("The sum of digits of " + n + " is " + result);
+
         sc.close();
     }
 }

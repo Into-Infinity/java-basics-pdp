@@ -14,10 +14,13 @@ public class FactorialCalculator {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
         System.out.print("Enter the number: ");
         int n = sc.nextInt();
+
         int result = factorial(n);
         System.out.print("The factorial of " + n + " is " + result);
+
         sc.close();
     }
 }
